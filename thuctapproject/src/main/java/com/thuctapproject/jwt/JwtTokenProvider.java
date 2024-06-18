@@ -1,4 +1,4 @@
-package com.thuctapproject.entity.jwt;
+package com.thuctapproject.jwt;
 
 import com.thuctapproject.service.CustomUserDetails;
 import io.jsonwebtoken.*;
